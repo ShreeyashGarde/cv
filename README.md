@@ -1,1 +1,2 @@
-Myself Shreeyash garde and this is is my personal portfolio webpage.
+Built personal portfolio webpage using basic html
+
